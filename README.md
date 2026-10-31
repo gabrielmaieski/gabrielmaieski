@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Maieski+%F0%9F%91%8B;Infraestrutura+%C2%B7+Redes+%C2%B7+Linux;Rumo+a+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Olá, eu sou o Gabriel Maieski" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=620&repeat=false&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Maieski" alt="Olá, eu sou o Gabriel Maieski" />
 
 **Analista de Suporte · Infraestrutura e Redes · São Paulo, SP**
 
