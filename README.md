@@ -50,5 +50,5 @@ idiomas:
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [⏱️ LW-Tech-Point](https://github.com/gabrielmaieski/LW-Tech-Point) | Sistema web de registro de ponto com relatórios em CSV | HTML · CSS · JS |
+| [⏱️ Clockr](https://github.com/gabrielmaieski/clockr) · [demo](https://gabrielmaieski.github.io/clockr/) | Sistema de registro de ponto com painel do gestor e relatórios em CSV | Node.js · SQLite · Docker · GitHub Actions |
 | 🚧 Em breve | Projetos de Cloud & DevOps na AWS | AWS · Docker · Terraform |
