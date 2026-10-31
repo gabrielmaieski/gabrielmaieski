@@ -52,11 +52,3 @@ idiomas:
 | --- | --- | --- |
 | [⏱️ LW-Tech-Point](https://github.com/gabrielmaieski/LW-Tech-Point) | Sistema web de registro de ponto com relatórios em CSV | HTML · CSS · JS |
 | 🚧 Em breve | Projetos de Cloud & DevOps na AWS | AWS · Docker · Terraform |
-
----
-
-<div align="center">
-
-`$ echo "Aberto a oportunidades em Cloud & DevOps Jr. Bora conversar?"`
-
-</div>
